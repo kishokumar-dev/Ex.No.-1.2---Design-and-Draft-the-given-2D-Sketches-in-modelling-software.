@@ -1,5 +1,8 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
+## Name : Kishore Kumar P
+## Reg : 26002452
+
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
